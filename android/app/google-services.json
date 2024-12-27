@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270834648403",
+    "project_id": "confrennce-room",
+    "storage_bucket": "confrennce-room.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270834648403:android:613028a4a0918584454da6",
+        "android_client_info": {
+          "package_name": "com.example.confressing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270834648403-kas5snscttd3l2285mq682lag968qnqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.confressing_app",
+            "certificate_hash": "7b4070079526730be536401a4caadc401a5e58e6"
+          }
+        },
+        {
+          "client_id": "270834648403-79b3jieva2fpg85r78c87bh8rs3e40bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazzUdrr0-L5oq0M44aKEyYZs2ctNYW3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270834648403-79b3jieva2fpg85r78c87bh8rs3e40bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
